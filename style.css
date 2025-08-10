@@ -1,3 +1,7 @@
 h1{
     color: aqua;
 }
+body{
+    margin: auto;
+    gap: 20px;
+}
